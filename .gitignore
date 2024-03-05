@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Honest Calculator/*
+!/Honest Calculator/task/
+/Honest Calculator/task/*
+!/Honest Calculator/task/honest_calc.py
